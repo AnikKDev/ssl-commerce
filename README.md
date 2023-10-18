@@ -2,7 +2,7 @@
   <h1>University Management System</h1>
 </div>
 <div align="center">
-  <strong>Auth Service</strong>
+  <strong>Payment Service Starter</strong>
 </div>
 
 ## Development
@@ -15,13 +15,3 @@ Copy `.env.example` to `.env`
 yarn dev
 ```
 
-
-## Documentation
-
-- [**Postman Documentation**](https://documenter.getpostman.com/view/3910568/2s93ecvq6w)
-
-## License
-
-[MIT](LICENSE)
-# um-payment-service
-# university-management-payment-service
