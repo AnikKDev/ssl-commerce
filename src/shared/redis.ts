@@ -1,4 +1,4 @@
-import { SetOptions, createClient } from 'redis';
+/* import { SetOptions, createClient } from 'redis';
 import logger from './logger';
 import config from '../config';
 
@@ -51,3 +51,4 @@ export const RedisClient = {
   subscribe: redisClient.subscribe.bind(redisClient),
   unsubscribe: redisClient.unsubscribe.bind(redisClient)
 };
+ */

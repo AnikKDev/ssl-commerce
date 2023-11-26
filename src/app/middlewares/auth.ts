@@ -1,4 +1,4 @@
-import { NextFunction, Response } from 'express';
+/* import { NextFunction, Response } from 'express';
 import httpStatus from 'http-status';
 import config from '../../config';
 import ApiError from '../../errors/apiError';
@@ -54,3 +54,4 @@ const auth =
   };
 
 export default auth;
+ */
